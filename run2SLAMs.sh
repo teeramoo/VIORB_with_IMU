@@ -1,0 +1,10 @@
+#./Examples/Monocular/eutech_imu_2 Vocabulary/ORBvoc.bin config/mobius_down.yaml config/mobius_up.yaml ../VideoFiles/Video_with_laser_data/2017-07-19:11:42:17/outputVidBottom.mkv ../VideoFiles/Video_with_laser_data/2017-07-19:11:42:17/outputVidTop.mkv ../VideoFiles/Video_with_laser_data/2017-07-19:11:42:17/outputVid2.txt ../VideoFiles/Video_with_laser_data/2017-07-19:11:42:17/outputIMU_base2.txt LearnVIORB-master/SLAMoutput/Sequence1/TopCamera
+
+#./Examples/Monocular/eutech_imu_2 Vocabulary/ORBvoc.bin config/mobius_down.yaml config/mobius_up.yaml ../../VideoFiles/Video_with_laser_data/2017-07-19:11:42:17/outputVidBottom.mkv ../../VideoFiles/Video_with_laser_data/2017-07-19:11:42:17/outputVidTop.mkv ../../VideoFiles/Video_with_laser_data/2017-07-19:11:42:17/outputVid2.txt ../../VideoFiles/Video_with_laser_data/2017-07-19:11:42:17/outputIMU_base2.txt SLAMoutput/Sequence1/TopCamera/ SLAMoutput/Sequence1/BotCamera/
+
+./Examples/Monocular/eutech_imu_2 Vocabulary/ORBvoc.bin config/mobius_up.yaml config/mobius_up.yaml ../VideoFiles/Video_with_laser_data/2017-07-19:11:42:17/outputVidTop.mkv ../VideoFiles/Video_with_laser_data/2017-07-19:11:42:17/outputVidTop.mkv ../VideoFiles/Video_with_laser_data/2017-07-19:11:42:17/outputVid2.txt ../VideoFiles/Video_with_laser_data/2017-07-19:11:42:17/outputIMU_base2.txt SLAMoutput/Sequence1/TopCamera/ SLAMoutput/Sequence1/BotCamera/
+
+#./Examples/Monocular/eutech_imu_2 Vocabulary/ORBvoc.bin config/mobius_down_handheld.yaml config/mobius_up_handheld.yaml ../VideoFiles/2017-Nov-16-03:57:56/vid2.avi ../VideoFiles/2017-Nov-16-03:57:56/vid1.avi ../VideoFiles/2017-Nov-16-03:57:56/video_timestamp.txt ../VideoFiles/2017-Nov-16-03:57:56/IMU.txt SLAMoutput/Sequence1/TopCamera/ SLAMoutput/Sequence1/BotCamera/
+
+#./Examples/Monocular/eutech_imu_2 Vocabulary/ORBvoc.bin config/mobius_down.yaml config/mobius_up.yaml ../../VideoFiles/2017-Nov-16-03:57:56/vid1.avi ../../VideoFiles/2017-Nov-16-03:57:56/vid2.avi ../../VideoFiles/2017-Nov-16-03:57:56/video_timestamp.txt ../../VideoFiles/2017-Nov-16-03:57:56/IMU.txt SLAMoutput/Sequence1/TopCamera/ SLAMoutput/Sequence1/BotCamera/
+
